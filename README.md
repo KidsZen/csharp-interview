@@ -15,3 +15,5 @@ Bonus :
 - Le front-end est responsive.
 
 - Le code C# est simple, concis et efficace.
+
+- Remplacer le header (fond rose) par une image.
